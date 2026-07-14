@@ -11,6 +11,8 @@ https://featherlibra.github.io/marine-automation-quiz/
 ## 功能
 
 - 1295 道轮机自动化选择题题库
+- 单题刷题模式，可按全部题顺序练习完整题库
+- 支持章节筛选、错题练习、标星题练习、顺序/随机刷题
 - 随机抽取 50 题模拟考试
 - 自动判分、显示正确率和错题明细
 - 历史考试记录保存在浏览器本地
@@ -20,8 +22,9 @@ https://featherlibra.github.io/marine-automation-quiz/
 
 ## 页面
 
-- `index.html`：50 题模拟考试
-- `exam.html`：50 题模拟考试备用入口
+- `index.html`：单题刷题，可刷全部题
+- `practice.html`：单题刷题备用入口
+- `exam.html`：50 题模拟考试
 - `list.html`：背诵题库和筛选复习
 
 ## 本地运行

@@ -1,5 +1,5 @@
-const CACHE = 'marine-auto-exam-online-v2';
-const ASSETS = ['./', './index.html', './exam.html', './manifest.webmanifest', './icon.svg'];
+const CACHE = 'marine-auto-quiz-online-v3';
+const ASSETS = ['./', './index.html', './practice.html', './exam.html', './list.html', './manifest.webmanifest', './icon.svg'];
 self.addEventListener('install', event => {
   event.waitUntil(caches.open(CACHE).then(cache => cache.addAll(ASSETS)).then(() => self.skipWaiting()));
 });

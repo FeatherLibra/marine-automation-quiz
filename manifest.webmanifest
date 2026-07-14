@@ -1,11 +1,11 @@
 {
-  "name": "轮机自动化50题模拟考试",
-  "short_name": "模拟考",
+  "name": "轮机自动化刷题软件",
+  "short_name": "轮机刷题",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
-  "background_color": "#f5f8fc",
-  "theme_color": "#2563eb",
+  "background_color": "#f5f6f0",
+  "theme_color": "#24665e",
   "orientation": "portrait",
   "icons": [
     { "src": "./icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
