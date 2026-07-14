@@ -6,7 +6,9 @@
 
 打开下面的网址即可使用，不需要安装：
 
-https://featherlibra.github.io/marine-automation-quiz/
+- 刷全部题：https://featherlibra.github.io/marine-automation-quiz/
+- 背诵列表：https://featherlibra.github.io/marine-automation-quiz/list.html
+- 50 题模拟考试：https://featherlibra.github.io/marine-automation-quiz/exam.html
 
 ## 功能
 
